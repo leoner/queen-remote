@@ -1,5 +1,5 @@
 {
-  "name": "queen-remote",
+  "name": "totoro-queen-remote",
   "version": "0.3.1",
   "description": "Rule browsers remotely, remotely",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ozanturgut/queen-remote.git"
+    "url": "https://github.com/leoner/queen-remote"
   },  
   "bin": {
     "queen-remote": "./bin/queen-remote"
@@ -44,5 +44,6 @@
     "name": "Ozan Turgut",
     "email": "ozanturgut@gmail.com"
   },
+  "contributors"  : ["kangpangpang <kangpangpang@gmail.com>", "fool2fish <fool2fish@gmail.com>"],
   "license": "MIT"
 }
